@@ -1,6 +1,5 @@
 const express = require("express");
 
-//
 const homeRoutes = require("./routes/homeroutes");
 const apiRoutes = require("./routes/apiRoutes");
 
