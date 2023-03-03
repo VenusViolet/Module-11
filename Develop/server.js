@@ -1,5 +1,6 @@
 const express = require("express");
 
+//initialises application
 const homeRoutes = require("./routes/homeroutes");
 const apiRoutes = require("./routes/apiRoutes");
 
