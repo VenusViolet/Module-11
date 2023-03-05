@@ -1,8 +1,8 @@
 const express = require("express");
 
 //initialises application
-const homeRoutes = require("./Develop/routes/homeroutes");
-const apiRoutes = require("./Develop/routes/apiRoutes");
+const homeRoutes = require("./routes/homeroutes");
+const apiRoutes = require("./routes/apiRoutes");
 
 const app = express();
 
